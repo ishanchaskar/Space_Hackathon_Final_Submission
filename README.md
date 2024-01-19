@@ -50,6 +50,3 @@ For any inquiries or further information about this project, feel free to reach 
 
 We welcome your questions, feedback, and potential collaboration opportunities.
 
----
-
-This section provides clear and direct contact information for team members, making it easy for others to reach out regarding your project.
